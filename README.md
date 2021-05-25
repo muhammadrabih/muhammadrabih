@@ -3,5 +3,5 @@
 - 👋 Hi, my name is Muhammad Rabih.
 - 🌱 I’m a front-end engineer.
 -  📫 This how you can reach me:
-      -  https://muhammadrabih.com
+      -  https://muhammadrabih.netlify.app
       -  https://linkedin.com/in/muhammadrabih
