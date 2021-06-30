@@ -4,6 +4,6 @@
 
 - 🙋‍♂️ I create powerful websites with persuasive copy that convert your visitors into paying customers and grow your business.
 
-- 📫 Drop me a line and let's talk
+- 📫 This is how you can reach me:
     - ✉️ You can send me a message on LinkedIn
       -  https://linkedin.com/in/muhammadrabih
