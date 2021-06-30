@@ -3,5 +3,4 @@
 - 👋 Hi, my name is Muhammad Rabih.
 - 🌱 I’m a front-end engineer, web designer, and copywriter.
 -  📫 This how you can reach me:
-      -  https://muhammadrabih.netlify.app
       -  https://linkedin.com/in/muhammadrabih
