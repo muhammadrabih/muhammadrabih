@@ -6,6 +6,6 @@
 
 - 📫 This is how you can reach me:
     - 🌐 You can visit my website
-      -  https://muhammadrabih.epizy.com
+      -  https://muhammadrabih.netlify.app
     - ✉️ You can send me a message on LinkedIn
       -  https://linkedin.com/in/muhammadrabih
