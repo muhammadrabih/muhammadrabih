@@ -5,7 +5,5 @@
 - 🙋‍♂️ I create powerful websites with persuasive copy that convert your visitors into paying customers and grow your business.
 
 - 📫 This is how you can reach me:
-    - 🌐 You can visit my website
-      -  https://muhammadrabih.netlify.app
     - ✉️ You can send me a message on LinkedIn
       -  https://linkedin.com/in/muhammadrabih
