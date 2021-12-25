@@ -1,4 +1,4 @@
-<img width="100%" src="https://media-exp1.licdn.com/dms/image/C4E16AQHTBeTZi-zPSw/profile-displaybackgroundimage-shrink_350_1400/0/1630316645157?e=1635984000&v=beta&t=b8qI-W10g9V8fpeOgP2nanmABgbr9BaxXTVinqaBoKs" />
+<img width="100%" src="https://media-exp1.licdn.com/dms/image/C4D16AQG2mWfMepXWcA/profile-displaybackgroundimage-shrink_350_1400/0/1640439647807?e=1645660800&v=beta&t=X5GEWf84fzFkRandn2IuP2q_9XVw3EEP7ILpdntw0LY" />
 
 - 👋🏻 Hi, my name's Muhammad Rabih and I'm a Web Designer and Copywriter.
 
