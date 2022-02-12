@@ -9,9 +9,6 @@
    - 🌐 You can visit my website (coming soon)
       - https://muhammadrabih.com
 
-   - 📖 You can read my articles on Medium
-     - https://medium.com/@muhammadrabih
-
    - ✉️ You can send me a message on LinkedIn
       - https://linkedin.com/in/muhammadrabih
  
