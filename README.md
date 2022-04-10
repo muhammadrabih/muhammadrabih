@@ -1,4 +1,4 @@
-<img width="100%" src="https://media-exp1.licdn.com/dms/image/C4D16AQG2mWfMepXWcA/profile-displaybackgroundimage-shrink_350_1400/0/1640439647807?e=1645660800&v=beta&t=X5GEWf84fzFkRandn2IuP2q_9XVw3EEP7ILpdntw0LY" />
+<img width="100%" src="https://media-exp1.licdn.com/dms/image/C4D16AQEWaFGa19S3bw/profile-displaybackgroundimage-shrink_350_1400/0/1649631353848?e=1655337600&v=beta&t=jiEFVDsrg1tzcraexlJ_0Ul4ubHR5hhNCtx5_Cd-l-g" />
 
 - 👋🏻 Hi, my name's Muhammad Rabih and I’m a Freelance Web Designer & SEO Expert based in Egypt but work worldwide.
 
@@ -6,8 +6,8 @@
 
 - 📫 This is where you can find me:
 
-   - 🌐 You can visit my website (coming soon)
-      - https://muhammadrabih.com
+   - 🌐 You can visit my website
+      - https://muhammadrabih.studio
 
    - ✉️ You can send me a message on LinkedIn
       - https://linkedin.com/in/muhammadrabih
