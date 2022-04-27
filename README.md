@@ -4,6 +4,16 @@
 
 - 🙋‍♂️ I create more than pretty websites, I create powerful and high-performing websites that focus on the user experience.
 
+- 💪 I can build simple, or complex websites that can solve your business issues, and take your business to the next level.
+
+- 🤝 I've helped my clients scale their businesses, have a strong online presence, and reach their goals.
+
+- 🫵 I can help you, too!.
+
+
+- 📞 Get in touch and let's talk about it.
+
+
 - 📫 This is where you can find me:
 
    - 🌐 You can visit my website
