@@ -17,7 +17,7 @@
 - 📫 This is where you can find me:
 
    - 🌐 You can visit my website
-      - https://muhammadrabih.studio
+      - https://muhammadrabih.com ( coming soon )
 
    - ✉️ You can send me a message on LinkedIn
       - https://linkedin.com/in/muhammadrabih
