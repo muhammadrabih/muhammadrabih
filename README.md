@@ -24,6 +24,3 @@
  
    - 🔵 My GitHub
       - https://github.com/muhammadrabih
-
-   - 🔵 My Twitter
-      - https://twitter.com/muhammadrabiheg
